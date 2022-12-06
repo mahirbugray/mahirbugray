@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahirbugray
 <h1 align="center">Hi 👋, I'm Mahir Buğra YAŞAR</h1>
 <img src="https://www.tech-worm.com/wp-content/uploads/2016/04/yaz%C4%B1l%C4%B1m.jpg">
-<h3 align="center">Manisa Celal Bayar Üniversitesi Yazılım Mühendisliği öğrencisiyim.İstanbul'da yaşıyorum.</h3>
+<h3 align="center">I am a software engineering student at Manisa Celal Bayar University. I live in Istanbul.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirbugray&label=Profile%20views&color=0e75b6&style=flat" alt="mahirbugray" /> </p>
 
