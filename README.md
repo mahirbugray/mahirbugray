@@ -1,9 +1,10 @@
 # 💫 About Me:
 
 I am a 4th year Software Engineering student. Myself Web
-Developed on programming, suitable for team work,
-creative, solution-oriented, analytical thinking, innovative
-And I have the principle of being open to development, disciplined and self-sacrificing.
+Developed on programming. Creative, solution oriented with high analytical thinking,
+innovative, determined and highly disciplined junior full stack
+web developer. Currently studying in last semester at Software
+Engineering and will graduate first half of 2024.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bu%C4%9Fra-ya%C5%9Far/) 
