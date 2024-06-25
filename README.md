@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-I am a 4th year Software Engineering student. Myself Web
-Developed on programming. Creative, solution oriented with high analytical thinking,
+Myself Full-Stack Web Developed on programming. Creative, solution oriented with high analytical thinking,
 innovative, determined and highly disciplined junior full stack
 web developer. Currently studying in last semester at Software
 Engineering and will graduate first half of 2024.
