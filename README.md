@@ -1,20 +1,20 @@
 <div align="center">
 
 ```
-███╗   ███╗ █████╗ ██╗  ██╗██╗██████╗     ██████╗ ██╗   ██╗ ██████╗ ██████╗  █████╗
-████╗ ████║██╔══██╗██║  ██║██║██╔══██╗    ██╔══██╗██║   ██║██╔════╝ ██╔══██╗██╔══██╗
-██╔████╔██║███████║███████║██║██████╔╝    ██████╔╝██║   ██║██║  ███╗██████╔╝███████║
-██║╚██╔╝██║██╔══██║██╔══██║██║██╔══██╗    ██╔══██╗██║   ██║██║   ██║██╔══██╗██╔══██║
-██║ ╚═╝ ██║██║  ██║██║  ██║██║██║  ██║    ██████╔╝╚██████╔╝╚██████╔╝██║  ██║██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+ ███╗   ███╗ █████╗ ██╗  ██╗██╗██████╗     ██████╗ ██╗   ██╗ ██████╗ ██████╗  █████╗
+ ████╗ ████║██╔══██╗██║  ██║██║██╔══██╗    ██╔══██╗██║   ██║██╔════╝ ██╔══██╗██╔══██╗
+ ██╔████╔██║███████║███████║██║██████╔╝    ██████╔╝██║   ██║██║  ███╗██████╔╝███████║
+ ██║╚██╔╝██║██╔══██║██╔══██║██║██╔══██╗    ██╔══██╗██║   ██║██║   ██║██╔══██╗██╔══██║
+ ██║ ╚═╝ ██║██║  ██║██║  ██║██║██║  ██║    ██████╔╝╚██████╔╝╚██████╔╝██║  ██║██║  ██║
+ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### Full Stack .NET Developer
-#### `ASP.NET Core` · `Microservices` · `Vue.js` · `React.js` · `SignalR` · `Redis` · `RabbitMQ`
+**`Full Stack .NET Developer`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bu%C4%9Fra-ya%C5%9Far/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mahirbugray)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahirbugrayasar@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahirbugrayasar@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=mahirbugray&color=c8f04d&style=flat-square&label=Profile+Views)](https://github.com/mahirbugray)
 
 </div>
 
@@ -28,17 +28,16 @@ var developer = new Developer
     Name        = "Mahir Buğra Yaşar",
     Location    = "Istanbul, Turkey 🇹🇷",
     Role        = "Full Stack .NET Developer",
-    Experience  = new[] { "MZM Software", "CTS Software", "Lolovy" },
-    Education   = "Software Engineering — Manisa Celal Bayar University",
 
-    Backend     = new[] { "ASP.NET Core", "C#", "EF Core", "REST API", "Microservices", "SignalR" },
+    Backend     = new[] { "ASP.NET Core", "C#", "EF Core", "SignalR", "Microservices" },
     Frontend    = new[] { "Vue.js", "React.js", "React Native (basic)" },
     Databases   = new[] { "MSSQL", "MongoDB", "Azure Cosmos DB", "Redis", "ElasticSearch" },
     Messaging   = new[] { "RabbitMQ", "MassTransit" },
     Principles  = new[] { "SOLID", "TDD", "Onion Architecture", "Clean Code" },
 
-    CurrentFocus = "Building event-driven, cloud-native backend systems",
-    OpenToWork   = true
+    Experience  = new[] { "MZM Software", "CTS Software", "Lolovy" },
+    Education   = "Software Engineering — Manisa Celal Bayar University",
+    OpenToWork  = true
 };
 ```
 
@@ -52,11 +51,11 @@ var developer = new Developer
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_6%2F7-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET 6/7](https://img.shields.io/badge/.NET_6%2F7-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B35?style=flat-square&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B35?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
@@ -68,8 +67,8 @@ var developer = new Developer
 <br>
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native_(basic)-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -94,10 +93,10 @@ var developer = new Developer
 <br>
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![MassTransit](https://img.shields.io/badge/MassTransit-8B0000?style=flat-square&logoColor=white)
+![MassTransit](https://img.shields.io/badge/MassTransit-8B0000?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 
@@ -108,42 +107,47 @@ var developer = new Developer
 ## `$ git log --oneline --graph` — Experience
 
 ```
-* d3f9c2a (HEAD) Lolovy — Backend Developer        [Aug 2025 – Oct 2025]
-|   Social platform · Microservices · SignalR · RabbitMQ
-|   ElasticSearch · Redis · Azure Cosmos DB · MongoDB
-|
-* 7a1e4b8  CTS Software — Full Stack Developer      [Feb 2024 – May 2024]
-|   ASP.NET Core · Vue.js · DevExtreme · JWT/OAuth · TDD
-|
-* 2c8f1d5  MZM Software — Backend Developer         [Jul 2023 – Nov 2023]
-    Microservice APIs · Azure Cosmos DB · RabbitMQ · Redis
+* ●  Lolovy — Backend Developer                          [Aug 2025 – Oct 2025]
+│    ├─ Social & content platform · Modular microservices
+│    ├─ SignalR (real-time) · RabbitMQ + MassTransit (async events)
+│    ├─ ElasticSearch (feed indexing) · Redis (cache + distributed locks)
+│    └─ Azure Cosmos DB + MongoDB (cloud-native storage)
+│
+* ●  CTS Software — Full Stack Developer                 [Feb 2024 – May 2024]
+│    ├─ ASP.NET Core · Vue.js · DevExtreme
+│    └─ JWT/OAuth · EF Core · TDD (xUnit) · Swagger
+│
+* ●  MZM Software — Backend Developer                    [Jul 2023 – Nov 2023]
+     ├─ Enterprise microservice APIs (web + mobile)
+     └─ Azure Cosmos DB · RabbitMQ · Redis · ElasticSearch
 ```
 
 ---
 
-## `$ cat architecture.md` — How I Build Things
+## `$ cat architecture.md`
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                    CLIENT LAYER                          │
-│              Vue.js  /  React.js  /  React Native        │
-└──────────────────────┬──────────────────────────────────┘
-                       │ REST  /  SignalR (Real-Time)
-┌──────────────────────▼──────────────────────────────────┐
-│                   API GATEWAY                            │
-│            ASP.NET Core  ·  JWT / OAuth                  │
-└──────┬───────────┬───────────┬──────────────────────────┘
-       │           │           │
-  ┌────▼───┐  ┌────▼───┐  ┌───▼────┐   Microservices
-  │ User   │  │Content │  │ Order  │   (Onion Arch.)
-  │Service │  │Service │  │Service │
-  └────┬───┘  └────┬───┘  └───┬────┘
-       │           │           │
-┌──────▼───────────▼───────────▼──────────────────────────┐
-│                  DATA & MESSAGING                        │
-│  MSSQL · MongoDB · CosmosDB · Redis · ElasticSearch      │
-│              RabbitMQ (MassTransit)                      │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                      CLIENT LAYER                           │
+│               Vue.js  ·  React.js  ·  React Native          │
+└────────────────────────┬────────────────────────────────────┘
+                         │  REST API  ·  SignalR (WebSocket)
+┌────────────────────────▼────────────────────────────────────┐
+│                     API GATEWAY                             │
+│              ASP.NET Core  ·  JWT / OAuth 2.0               │
+└──────┬──────────────┬──────────────┬───────────────────────┘
+       │              │              │
+  ┌────▼────┐   ┌─────▼────┐   ┌────▼────┐   ← Microservices
+  │  User   │   │ Content  │   │  Order  │     (Onion Arch.)
+  │ Service │   │ Service  │   │ Service │
+  └────┬────┘   └─────┬────┘   └────┬────┘
+       └──────────────┴─────────────┘
+                       │
+┌──────────────────────▼──────────────────────────────────────┐
+│                  DATA & MESSAGING LAYER                     │
+│   MSSQL · MongoDB · Azure Cosmos DB · Redis · ElasticSearch  │
+│                  RabbitMQ (MassTransit)                     │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -152,20 +156,19 @@ var developer = new Developer
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahirbugray&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=c8f04d&icon_color=c8f04d&text_color=a0a0b0&bg_color=0e0e12&cache_seconds=1800)](https://github.com/mahirbugray)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirbugray&theme=tokyonight&hide_border=true&layout=compact&title_color=c8f04d&text_color=a0a0b0&bg_color=0e0e12&cache_seconds=1800&langs_count=6)](https://github.com/mahirbugray)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mahirbugray&theme=tokyonight&hide_border=true&background=0e0e12&ring=c8f04d&fire=e94560&currStreakLabel=c8f04d&sideLabels=a0a0b0&dates=a0a0b0&currStreakNum=efefef&sideNums=efefef)](https://github.com/mahirbugray)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahirbugray&theme=tokyonight&hide_border=true&background=0e0e12&ring=c8f04d&fire=e94560&currStreakLabel=c8f04d&sideLabels=9898a8&dates=9898a8&currStreakNum=efefef&sideNums=efefef&stroke=0e0e12)](https://github.com/mahirbugray)
 
 </div>
 
----
-
-## `$ cat trophies.log`
-
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mahirbugray&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4)
+| Metric | Value |
+|--------|-------|
+| 📦 Public Repos | **20** |
+| 🏢 Companies | **3** |
+| 💼 Experience | **9 months** |
+| 🔥 Longest Streak | **22 days** |
+| 📅 GitHub Since | **Nov 2020** |
 
 </div>
 
@@ -175,21 +178,21 @@ var developer = new Developer
 
 ```yaml
 architecture:
-  - Onion Architecture      # Clean layer separation
-  - SOLID Principles        # Single responsibility, Open/closed...
-  - Clean Code              # Readable, maintainable, testable
-  - Microservices           # Independent, scalable services
-  - Event-Driven Design     # Async, decoupled communication
+  - Onion Architecture       # Clean, testable layer separation
+  - SOLID Principles         # S · O · L · I · D
+  - Microservices            # Independent, scalable, deployable services
+  - Event-Driven Design      # Async, decoupled via RabbitMQ + MassTransit
+  - Clean Code               # Readable, maintainable, self-documenting
 
 quality:
-  - TDD (Test-Driven Dev.)  # Tests first, code second
-  - Unit Testing (xUnit / NUnit)
+  - TDD                      # Test-Driven Development — tests first
+  - Unit Testing             # xUnit · NUnit
   - Code Review & Refactoring
 
 workflow:
   - Agile (Scrum / Kanban)
   - Git Flow
-  - CI/CD awareness
+  - Docker (containerization)
 ```
 
 ---
@@ -197,13 +200,11 @@ workflow:
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════╗
-║  Open to new opportunities & collaborations  ║
-║         mahirbugrayasar@gmail.com            ║
-║       linkedin.com/in/bugra-yasar/           ║
-╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║   Open to new opportunities & collaborations     ║
+║          mahirbugrayasar@gmail.com               ║
+║        linkedin.com/in/bugra-yasar/              ║
+╚══════════════════════════════════════════════════╝
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=mahirbugray&color=c8f04d&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
