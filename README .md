@@ -152,10 +152,10 @@ var developer = new Developer
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mahirbugray&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=c8f04d&icon_color=c8f04d&text_color=a0a0b0&bg_color=0e0e12" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirbugray&theme=tokyonight&hide_border=true&layout=compact&title_color=c8f04d&text_color=a0a0b0&bg_color=0e0e12" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahirbugray&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=c8f04d&icon_color=c8f04d&text_color=a0a0b0&bg_color=0e0e12&cache_seconds=1800)](https://github.com/mahirbugray)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirbugray&theme=tokyonight&hide_border=true&layout=compact&title_color=c8f04d&text_color=a0a0b0&bg_color=0e0e12&cache_seconds=1800&langs_count=6)](https://github.com/mahirbugray)
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahirbugray&theme=tokyonight&hide_border=true&background=0e0e12&ring=c8f04d&fire=e94560&currStreakLabel=c8f04d&sideLabels=a0a0b0&dates=a0a0b0&currStreakNum=efefef&sideNums=efefef" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahirbugray&theme=tokyonight&hide_border=true&background=0e0e12&ring=c8f04d&fire=e94560&currStreakLabel=c8f04d&sideLabels=a0a0b0&dates=a0a0b0&currStreakNum=efefef&sideNums=efefef)](https://github.com/mahirbugray)
 
 </div>
 
@@ -165,7 +165,7 @@ var developer = new Developer
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mahirbugray&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mahirbugray&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4)
 
 </div>
 
